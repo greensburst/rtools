@@ -29,7 +29,7 @@
 ```C
     char* x = GenerateRandomString(char* elements, int minLength, int maxLength);
     /*
-     *  any elements of the x will in the elements
+     *  any element of the x will in the elements
      *  and the length of the x will in [minlength,maxlength](minlength <= len(x) <= maxlength)
      */
 ```
